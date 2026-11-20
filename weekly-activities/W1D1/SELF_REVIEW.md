@@ -55,17 +55,26 @@
 - [x] Evaluated AI-assisted suggestions against the actual source code.
 - [x] Distinguished genuine issues from optional enhancements.
 - [x] Applied relevant PEP 8 corrections.
-- [ ] Saved evidence of CIA interaction 1.
-- [ ] Saved evidence of CIA interaction 2.
+- [x] Saved evidence of CIA interaction 1 (`CIA_review_1.png`).
+- [x] Saved evidence of CIA interaction 2 (`CIA_review_2.png`).
 
 ## 6. Git Workflow
 
 - [x] Created feature branch `feat/aiml-W1-dhanush`.
-- [ ] Completed at least two descriptive commits.
-- [ ] Reviewed staged changes before committing.
-- [ ] Pushed the feature branch to GitHub.
-- [ ] Created a pull request.
-- [ ] Verified that no virtual environment, secrets, or unnecessary files are committed.
+- [x] Completed at least two descriptive commits.
+- [x] Reviewed staged changes before committing.
+- [x] Pushed the feature branch to GitHub.
+- [x] Created pull request #1 targeting `main`.
+- [x] Verified that no virtual environment, secrets, or unnecessary files are committed.
+
+### Commits
+
+1. `eda370d` — `feat(w1d1): implement NumPy fundamentals and Iris statistics`
+2. `ab88d0c` — `docs(w1d1): add notebook, dataset, and execution evidence`
+
+### Pull Request
+
+https://github.com/drax369/cynaris-internship-dhanush/pull/1
 
 ## 7. Final Verification
 
@@ -73,10 +82,11 @@
 - [x] Expected numerical outputs verified.
 - [x] Project structure verified.
 - [x] Execution evidence screenshots confirmed.
-- [ ] Notebook executes successfully from beginning to end (final verification).
-- [ ] README instructions verified.
-- [ ] All required deliverables ready for submission.
-- [ ] Final Git and pull request verification completed.
+- [x] Notebook executes successfully from beginning to end.
+- [x] README instructions and execution commands documented.
+- [x] All required W1D1 deliverables prepared and submitted through GitHub.
+- [x] Final Git verification completed; working tree was clean before the final evidence update.
+- [x] Pull request created and awaiting mentor review.
 
 ## Known Issue — Black Formatter
 
@@ -88,3 +98,9 @@ The Black formatter encountered a Windows Smart App Control restriction involvin
 - Awaiting mentor-approved guidance or an alternative formatting workflow.
 
 This issue is documented and remains pending resolution.
+
+## Pending External Actions
+
+- [ ] Obtain mentor-approved guidance for the Black formatter issue.
+- [ ] Receive mentor review and approval of pull request #1.
+- [ ] Address any requested changes from the mentor.
